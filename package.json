@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AbdulDayyan1.github.io/Portfolio", 
+  "homepage": "https://AbdulDayyan1.github.io/Portfolioo",
   "dependencies": {
     "aos": "^2.3.4",
     "cra-template": "1.2.0",
@@ -14,9 +14,9 @@
     "web-vitals": "^4.2.4"
   },
   "scripts": {
-    "start": "react-scripts start", 
-    "build": "react-scripts build", 
-    "predeploy": "npm run build", 
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

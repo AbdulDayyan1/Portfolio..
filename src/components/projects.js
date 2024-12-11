@@ -3,42 +3,6 @@ import React from "react";
 const Projects = () => {
   const projects = [
     {
-      title: "College MIS",
-      description:
-        "Optimized administrative workflows using Java and MySQL.",
-      link: "#", // Replace with the live demo or GitHub link
-    },
-    {
-      title: "Attendance System",
-      description:
-        "Automated image-based attendance system using Python and OpenCV.",
-      link: "#", // Replace with the live demo or GitHub link
-    },
-    {
-      title: "Dayyan's ChatGPT",
-      description:
-        "AI-powered chatbot using Python, integrated with Discord. Implemented OpenAI API for responses.",
-      link: "#", // Replace with the live demo or GitHub link
-    },
-    {
-      title: "Weather Monitoring System",
-      description:
-        "Real-time weather app using Flask backend and React frontend. Integrated with Open WeatherMap API.",
-      link: "#", // Replace with the live demo or GitHub link
-    },
-    {
-      title: "React Todo App",
-      description:
-        "A simple and effective task management app built with React.js.",
-      video: "react.mp4", // Path to video file in public/videos/
-    },
-    {
-      title: "Habib's Cricket Club Website",
-      description:
-        "A responsive website for a cricket club built using HTML, CSS, and JavaScript.",
-      video: "cricket.mp4", // Path to video file in public/videos/
-    },
-    {
       title: "Chat App",
       description:
         "A real-time chat application using React and Node.js. Features user authentication, message threading, and notifications.",
@@ -53,8 +17,44 @@ const Projects = () => {
     {
       title: "Weather App",
       description:
-        "A responsive weather application utilizing React.js. Provides real-time weather data and 7-day forecasts.",
+      "A responsive weather application utilizing React.js. Provides real-time weather data and 7-day forecasts.",
       link: "https://weather-app-pi-lyart.vercel.app/",
+    },
+    {
+      title: "React Todo App",
+      description:
+      "A simple and effective task management app built with React.js.",
+      video: "react.mp4", // Path to video file in public/videos/
+    },
+    {
+      title: "Habib's Cricket Club Website",
+      description:
+      "A responsive website for a cricket club built using HTML, CSS, and JavaScript.",
+      video: "cricket.mp4", // Path to video file in public/videos/
+    },
+    {
+      title: "Attendance System",
+      description:
+      "Automated image-based attendance system using Python and OpenCV.",
+      link: "#", // Replace with the live demo or GitHub link
+    },
+    {
+      title: "Dayyan's ChatGPT",
+      description:
+      "AI-powered chatbot using Python, integrated with Discord. Implemented OpenAI API for responses.",
+      link: "#", // Replace with the live demo or GitHub link
+    },
+    {
+      title: "Weather Monitoring System",
+      description:
+      "Real-time weather app using Flask backend and React frontend. Integrated with Open WeatherMap API.",
+      link: "#", // Replace with the live demo or GitHub link
+    },
+    {
+      title: "College MIS",
+      description:
+        "Optimized administrative workflows using Java and MySQL.",
+      link: "#", // Replace with the live demo or GitHub link
     },
   ];
 

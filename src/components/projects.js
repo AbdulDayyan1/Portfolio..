@@ -21,6 +21,12 @@ const Projects = () => {
       link: "https://weather-app-pi-lyart.vercel.app/",
     },
     {
+    title: "Dayyan's ChatGPT",
+      description:
+      "AI-powered chatbot using Python, integrated with Discord. Implemented OpenAI API for responses.",
+      link: "#", // Replace with the live demo or GitHub link
+    },
+    {
       title: "React Todo App",
       description:
       "A simple and effective task management app built with React.js.",
@@ -36,12 +42,6 @@ const Projects = () => {
       title: "Attendance System",
       description:
       "Automated image-based attendance system using Python and OpenCV.",
-      link: "#", // Replace with the live demo or GitHub link
-    },
-    {
-      title: "Dayyan's ChatGPT",
-      description:
-      "AI-powered chatbot using Python, integrated with Discord. Implemented OpenAI API for responses.",
       link: "#", // Replace with the live demo or GitHub link
     },
     {
